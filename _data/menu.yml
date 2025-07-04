@@ -13,6 +13,10 @@ menu_pages:
   category: collaborations
   tooltip: Collaborations tooltip
 
+- title: Videos
+  url: /videos/
+  category: videos
+
 - title: About
   url: about.html
   category: about
